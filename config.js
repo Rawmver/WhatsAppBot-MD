@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['0','923082990885']
 //-------------
 
 
@@ -77,15 +77,15 @@ global.APIKeys = {
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['923082990885']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['903082990885']
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = 'Lucifer' 
    //-------------
-   global.author = 'ＡＬＦＡ'
+   global.author = 'Lucifer'
 
    //---------------------------------------------------------------------
 
@@ -185,7 +185,7 @@ global.APIKeys = {
 //============ MAIN ============//
 
 //-------------
-global.premium = [`${ownernum}`]
+global.premium = [`${923082990885}`]
 //-------------
 global.sessionName = 'session.alfa'
 //-------------
@@ -193,21 +193,21 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = 'Lucifer'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['923082990885']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '✩' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = 'Lucifer' 
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = 'Lucifer'
 //-------------
 global.icon = '✩' 
 //-------------
-global.mail = 'AlienAlfa.YT@gmail.com'
+global.mail = 'msy37994@gmail.com'
 //-------------
 global.youtube = 'https://youtube.com/c/alienalfa'
 //-------------
